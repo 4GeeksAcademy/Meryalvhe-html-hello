@@ -1,0 +1,46 @@
+body{background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+.post{
+    background-color: white;
+    height: 510px;
+    width: 400px;
+}
+.head {display: flex;
+    margin-bottom: 10px;
+    }
+.icon{font-size: 30px;
+margin-left: 10px;
+margin-top: 10px;}
+.user {font-size: 10px;
+    line-height: 0.01em;
+margin-left: 5px;
+margin-top: 10px;
+font-family: "Roboto", sans-serif;
+}
+.puntos{ margin-top: 15px; 
+    margin-left: 295px;
+    font-size: 20px;
+}
+img {width: 400px;
+}
+.icons{ margin-top: 10px; 
+    margin-left: 10px;
+    font-size: 20px;}
+#bookmark {margin-left: 290px;}
+.likes{ display: flex;
+    font-size: 13px;
+    font-family:"Roboto", sans-serif;
+margin-left: 10px;
+margin-top: 10px;
+}
+.bold { font-weight: bold;
+}
+.comment {width: 380px;
+text-align: justify;
+font-family:"Roboto", sans-serif;
+font-size: 13px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 0px;}
